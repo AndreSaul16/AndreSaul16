@@ -1,8 +1,13 @@
 👋 ¡Hola! Soy Saúl 😊
+
 💻 Desarrollador de soluciones con software.
+
 🤖 Apasionado por la Inteligencia Artificial, el Cloud Computing y los entornos innovadores.
+
 🌱 Actualmente estoy aprendiendo y desarrollando proyectos con Java, Azure, Python y más.
+
 🌍 Buscando colaborar en proyectos que generen impacto real usando la tecnología como motor de cambio.
+
 📫 Puedes encontrarme aquí: linkedin.com/in/sbriceño
 
 
