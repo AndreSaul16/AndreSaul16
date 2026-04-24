@@ -4,7 +4,7 @@
 
 🤖 Apasionado por la Inteligencia Artificial, el Cloud Computing y los entornos innovadores.
 
-🌱 Actualmente estoy aprendiendo y desarrollando proyectos con Java, Azure, Python y más.
+🌱 Actualmente estoy desarrollando proyectos con Java, Azure, Python y más.
 
 🌍 Buscando colaborar en proyectos que generen impacto real usando la tecnología como motor de cambio.
 
